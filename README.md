@@ -1,6 +1,11 @@
 <!-- ABOUT THE PROJECT -->
+<div>
+<img src="https://www.prshete.com/static/home/img/webassembly.png" alt="Logo" width="400" height="500">
+</div>
+
+
 ## About The Project
-This is simple example of migration of C++ code to Webassembly using Emscripten
+This is a simple migration of C++ code to Webassembly using Emscripten
 
 ### Built With
 * C++11
